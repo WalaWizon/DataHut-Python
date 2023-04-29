@@ -4,8 +4,8 @@ Welcome to the DataHut-Python, a repository showcasing my data science projects 
 
 ## Project List
 
-1.[***"911 Calls"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/911%20Emergency%20Calls.ipynb) : Data manipulation & Visualization<br>
-2.[***"Finance - Banks"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Banks%20-%20Exploratory%20Data%20Analysis.ipynb) : EDA & Visualization
+1.[***"911 Calls"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/911%20Emergency%20Calls.ipynb) : Data manipulation & Visualization<br>
+2.[***"Finance - Banks"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/Banks%20-%20Exploratory%20Data%20Analysis.ipynb) : EDA & Visualization
 
 
 
