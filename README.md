@@ -6,11 +6,11 @@ Welcome to the DataHut-Python, a repository showcasing my data science projects 
 
 ### Udemy Course Projects
 
-1. (Capstone Project) [***"911 Calls"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/911%20Emergency%20Calls.ipynb) : Data manipulation & Visualization<br>
-2. (Capstone Project) [***"Finance - Banks"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/Banks%20-%20Exploratory%20Data%20Analysis.ipynb) : EDA & Visualization<br>
+1. (Capstone Project) [***"911 Calls"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/911%20Emergency%20Calls.ipynb) : Data manipulation & Visualization.<br>
+2. (Capstone Project) [***"Finance - Banks"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/Banks%20-%20Exploratory%20Data%20Analysis.ipynb) : EDA & Visualization.<br>
 3. (Mini Project) [***"Ad-Clicking - Classification"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/Logistic%20Regression%20-%20Ad%20Clicking%20-%20Idan%20Ron.ipynb) : EDA , Visualization , Logistic Regression
-4. (Mini Project) [***"KNN - Classification"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/KNN%20-%20Idan%20Ron.ipynb) : Visualization , KNN , Elbow Method
-5. (Mini Project) [***"Random Forest & Decision Tree Classifiers - Loans"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/Loans%20-%20Random%20Forest%20%26%20Decision%20Tree%20-%20Idan%20Ron.ipynb) : Visualization , Decision Tree , Random Forest , Dummy Variables
+4. (Mini Project) [***"KNN - Classification"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/KNN%20-%20Idan%20Ron.ipynb) : Visualization , KNN , Elbow Method.
+5. (Mini Project) [***"Random Forest & Decision Tree Classifiers - Loans"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/Loans%20-%20Random%20Forest%20%26%20Decision%20Tree%20-%20Idan%20Ron.ipynb) : Visualization , Decision Tree , Random Forest , Dummy Variables.
 
 
 
