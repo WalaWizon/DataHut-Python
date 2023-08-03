@@ -6,7 +6,7 @@ Welcome to the DataHut-Python, a repository showcasing my data science projects 
 
 1.[***"911 Calls"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/911%20Emergency%20Calls.ipynb) : Data manipulation & Visualization<br>
 2.[***"Finance - Banks"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/Banks%20-%20Exploratory%20Data%20Analysis.ipynb) : EDA & Visualization<br>
-3.[***"Ad-Clicking - Classification"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/Logistic%20Regression%20-%20Ad%20Clicking%20-%20Idan%20Ron.ipynb) : EDA , Visualization , Logistic Regression
+3. (Mini Project) [***"Ad-Clicking - Classification"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/Logistic%20Regression%20-%20Ad%20Clicking%20-%20Idan%20Ron.ipynb) : EDA , Visualization , Logistic Regression
 
 
 
