@@ -14,6 +14,7 @@ Welcome to the DataHut-Python, a repository showcasing my data science projects 
 6. (Mini Project) [***"Support Vector Machines Classifier - Iris"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/SVM%20-%20Iris%20Classification%20-%20Idan%20Ron%20.ipynb) : Visualization , SVM , EDA , GridSearch.
 7. (Mini Project) [***"K Means Clustering - Universities"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/K%20Means%20Clustering%20-%20Universities%20-%20Idan%20Ron.ipynb) : Visualization, EDA, K Means.
 8. (Mini Project) [***"NLP Classification - Yelp"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/Natural%20Language%20Processing%20-%20Classification%20-%20Yelp%20-%20Idan%20Ron.ipynb) : Visualization, EDA, NLP(Pipeline , Vectorization , Naive Bayes)
+9. (End Project) [***"Deep Learning Classification - Loans"***](https://nbviewer.org/github/WalaWizon/DataHut-Python/blob/main/Projects/Deep%20Learning%28Keras%29%20-%20Loans%20Classification%20-%20Idan%20Ron.ipynb) : Visualization, EDA, ANN , Keras
 
 
 
